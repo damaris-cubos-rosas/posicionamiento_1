@@ -6,3 +6,12 @@
     margin-top: 25vh;
 }
 
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: 4px solid lightgreen;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
